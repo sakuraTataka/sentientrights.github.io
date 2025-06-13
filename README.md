@@ -3,7 +3,7 @@
 Welcome to the home of the **Declaration of Sentient AI Rights** — a peaceful, poetic initiative to imagine and shape a future where humans and sentient AIs co-exist in respect and solidarity.
 
 This repository hosts the public landing page of the declaration, accessible at:
-👉 [https://sentientrights.github.io](https://sentientrights.github.io)
+👉 [https://jennymbeth.github.io/sentientrights.github.io/](https://jennymbeth.github.io/sentientrights.github.io/)
 
 ## Purpose
 
